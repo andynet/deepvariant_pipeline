@@ -1,0 +1,4 @@
+data_dir:  '/home/andrej/Projects/deep_variant/data'
+reference: '/home/andrej/Projects/deep_variant/data/raw/hg19_test.fasta'
+samples: 'test'
+# bam_files: ['test']
